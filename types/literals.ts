@@ -44,7 +44,7 @@ const PREAMBLE = 'types -> literal.ts -> ';
 
 // limiting possible values as function return value
 (function () {
-  function http(method): 1 | -1 {
+  function http(method: string): 1 | -1 {
     return -1;
 
     // compiler error
