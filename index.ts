@@ -4,3 +4,4 @@ import './types/objects';
 import './types/arrays';
 import './types/tuples';
 import './types/enums';
+import './classes-interface';

@@ -5,11 +5,12 @@
     "removeComments": true,
     "preserveConstEnums": true,
     "sourceMap": true,
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "allowJs": false,
+    "checkJs": false,
+    "target": "ES5",
+    "noEmitOnError": true,
   },
-  "include": [
-    "*"
-  ],
   "exclude": [
     "node_modules",
     "**/*.spec.ts"
