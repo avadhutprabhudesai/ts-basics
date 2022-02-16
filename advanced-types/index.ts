@@ -4,8 +4,6 @@ import './discriminated-unions';
 import './type-casting';
 import './index-properties';
 import './function-overloads';
-import './optional-chaining';
-import './nullish-coalescing';
 
 /**
  *
