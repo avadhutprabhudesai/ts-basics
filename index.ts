@@ -1,3 +1,4 @@
 // import './types';
 // import './classes-interface';
-import './advanced-types';
+// import './advanced-types';
+import './generics';
