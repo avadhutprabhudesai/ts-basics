@@ -10,6 +10,7 @@
     "checkJs": false,
     "target": "ES5",
     "noEmitOnError": true,
+    "experimentalDecorators": true
   },
   "exclude": [
     "node_modules",
